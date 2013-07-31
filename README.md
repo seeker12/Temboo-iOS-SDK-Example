@@ -1,7 +1,8 @@
 Temboo-iOS-SDK-Example
 ======================
 
-[Temboo iOS SDK Tutorial](https://www.temboo.com/support/getting-started/sdk/ios "iOS SDK Tutorial") updates 
+Basic updates to get the [Temboo iOS SDK Tutorial](https://www.temboo.com/support/getting-started/sdk/ios 
+"iOS SDK Tutorial") working.
 
 The tutorial demonstrates the use of the Temboo New York Times "Search Reviews by Keyword" and 
 YouTube "Search Results" wrapper APIs, aka Choreos. The tutorial did not work out of the box for me. 
