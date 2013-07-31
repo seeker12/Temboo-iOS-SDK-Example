@@ -12,7 +12,6 @@ If comparing the original Temboo iOS SDK with the source in this repo, you will 
 2.  The Temboo iOS SDK Tutorial can be found [here](https://www.temboo.com/support/getting-started/sdk/ios "iOS SDK Tutorial"). Temboo account login required.
 
 
-
 DISCLAIMER
 ======================
 I am not associated with Temboo in any way. All original Temboo copyrights have been preserved in their source files in this project.
