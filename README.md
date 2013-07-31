@@ -15,10 +15,10 @@ ExampleApplication/Classes to NYTimesReviewSearchVC and YouTubeSearchTableVC for
 xibs are renamed also.
 
 **Usage:**<br \>
-1.  You will need a [Temboo](http://www.temboo.com "Temboo") account, available free.
-2.  The Temboo iOS SDK Tutorial can be found [here](https://www.temboo.com/support/getting-started/sdk/ios "iOS SDK Tutorial"). Temboo account login required.
+1. You will need a [Temboo](http://www.temboo.com "Temboo") account, available free.<br \>
+2. The Temboo iOS SDK Tutorial can be found [here](https://www.temboo.com/support/getting-started/sdk/ios "iOS SDK Tutorial"). Temboo account login required.
 
 
 DISCLAIMER
-======================
+----------
 I am not associated with Temboo in any way. All original Temboo copyrights have been preserved in their source files in this project.
